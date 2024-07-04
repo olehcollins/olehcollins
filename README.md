@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @olehcollins
+- 👋 Hi, I’m Oleh Collins
 - I am a full-stack developer specialised in the MERN stack
 - 🌱 I’m currently learning C#
 - 📫 How to reach me oleh.collins@icloud.com
-- ⚡ Fun fact: I am a Manchester City fan 😊
-
--⚡ Skills:
-Node.js,
+- ⚡ Skills
+- Node.js,
 TypeScript,
 React,
 Express.js and 
