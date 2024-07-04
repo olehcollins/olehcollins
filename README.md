@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olehcollins
 - I am a full-stack developer specialised in the MERN stack
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning C#
 - 📫 How to reach me oleh.collins@icloud.com
 - ⚡ Fun fact: I am a Manchester City fan 😊
 
