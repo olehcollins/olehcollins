@@ -2,7 +2,7 @@
 - I am a full-stack developer specialised in the MERN stack
 - 🌱 I’m currently learning C#
 - 📫 How to reach me oleh.collins@icloud.com
-- ⚡ Skills
+- ⚡ Skills:
 - Node.js,
 TypeScript,
 React,
