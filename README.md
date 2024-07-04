@@ -16,3 +16,10 @@
 / ** `|**|[o**o]|
 \_(**\*\***\_**\*\*** /\_**\_\_\_**)
 
+
+⚡ Skills:
+Node.js
+TypeScript
+React
+Express.js
+Ruby on Rails
