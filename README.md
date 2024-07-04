@@ -4,6 +4,13 @@
 - 📫 How to reach me oleh.collins@icloud.com
 - ⚡ Fun fact: I am a Manchester City fan 😊
 
+- ⚡ Skills:
+- Node.js
+- TypeScript
+- React
+- Express.js
+- Ruby on Rails
+
 #####
 
     #### _\_  ________
@@ -17,9 +24,3 @@
 \_(**\*\***\_**\*\*** /\_**\_\_\_**)
 
 
-⚡ Skills:
-Node.js
-TypeScript
-React
-Express.js
-Ruby on Rails
