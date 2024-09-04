@@ -2,7 +2,7 @@
 I’m a junior developer with hands-on experience in TypeScript, React, Node.js, Express.js, Ruby on Rails 7, and SQL. My journey began at Le Wagon bootcamp, where I honed my skills through collaborative projects, and was further enriched by completing the Codecademy Full-Stack Development course. Always eager to learn and grow, I stay engaged with the latest technologies and enjoy diving into my hobbies, including football and reading, in my free time.
 
 # 🧠 Studying 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
