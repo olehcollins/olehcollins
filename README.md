@@ -1,3 +1,28 @@
+## Oleh Collins * Full-Stack Developer
+
+``` csharp
+using System;
+
+namespace WelcomeMessage
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            PrintWelcome();
+            PrintQuote();
+        }
+
+        static void PrintWelcome() => Console.WriteLine(
+        "Welcome to My GitHub Profile!\nExplore and connect.");
+        static void PrintQuote() => Console.WriteLine(
+        "Programming isn't about what you know; it's about what you can figure out. - Chris Pine"
+        );
+    }
+}
+```
+
+
 # 💫 About Me:
 I’m a junior developer with hands-on experience in C#, ASP .NET, React, Node.js, Express.js, Ruby on Rails 7, and SQL. My journey began at Le Wagon bootcamp, where I honed my skills through collaborative projects, and was further enriched by completing the Codecademy Full-Stack Development course. Always eager to learn and grow, I stay engaged with the latest technologies and enjoy diving into my hobbies, including football and reading, in my free time.
 
