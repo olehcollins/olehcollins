@@ -33,7 +33,7 @@ Outside of development, I enjoy football and reading, and I am always exploring 
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/OlehCollins" target="_blank" style="display:flex; align-items:center; gap:8px; text-decoration:none;">
-  <p style="margin:0;">My LinkedIn profile ⬇️</p>
+  <p style="margin:0;">⬇️ My LinkedIn profile</p>
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="My LinkedIn Profile" />
 </a>
 
